@@ -14,6 +14,17 @@ Kurz je úplne zadarmo, jediné čo od Vás chcem je odber a like pod každé vi
 
 Som profesionálny python programátor už 6 rokov a programovanie ma veľmi baví. Ak ťa zaujíma moja kariéra a môj životopis nájdeš ho tu [tu](https://www.linkedin.com/in/michal-hucko-6233aa106/). Som bývalý doktorand na FIIT STU :) a taktiež mám skúsenosti s online učením. Moje kurzy po anglicky nájdete na portály [Skillshare](https://www.skillshare.com/r/profile/Michal-Hucko/680547770)
 
+V prípade ak chcete finančne podporiť kanál tak viete tak spraviť na mojom Patreone: https://www.patreon.com/informatikasmisom 
+
+👨‍👩‍👧‍👦 Discord: https://discord.gg/VUNbPvnSrh</br>
+💵 Patreon: https://www.patreon.com/informatikasmisom</br>
+🎥 YouTube: https://www.youtube.com/c/InformatikasMišom</br>
+📸 Instagram: https://www.instagram.com/informatikasmisom</br>
+👍 Facebook: https://www.facebook.com/InformatikaSMisom</br>
+💻 Github: https://github.com/misohu</br>
+🤵 LinkedIn: https://linkedin.com/in/michal-hucko</br>
+🏫 Skillshare: https://www.skillshare.com/r/profile/Michal-Hucko/680547770</br>
+
 ## Obsah videí:
 - [Úvod a](https://youtu.be/e913JbwsGmI)
 - [Triedy a objekty](https://youtu.be/jJv-12C4IHk)
